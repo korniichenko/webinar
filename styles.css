@@ -27,11 +27,11 @@
 }
 
 .button {
-    height: 56px;
+    height: 54px;
     color: #fff;
-    font-size: 16px;
+    font-size: 14px;
     background-color: rgb(18, 86, 155);
-    border-radius: 28px;
+    border-radius: 27px;
     border-color: transparent;
 }
 
@@ -45,11 +45,11 @@
 }
 
 .button__header {
-    width: 220px;
+    width: 226px;
 }
 
 .header {
-    height: 570px;
+    height: 539px;
     display: flex;
     background-color: rgb(228, 230, 237);
     padding: 0 94px;
@@ -74,13 +74,13 @@
 }
 
 .header__content h1 {
-    width: 280px;
+    width: 279px;
     font-family: "Rubik Bold";
     font-size: 80px;
     color: rgb(33, 32, 51);
     line-height: 88%;
     letter-spacing: 14px;
-    margin-bottom: 34px;
+    margin-bottom: 24px;
 }
 
 .header__dron {
@@ -96,7 +96,7 @@
 
 .main h2 {
     margin-bottom: 25px;
-    font-size: 30px;
+    font-size: 28px;
     color: rgb(33, 32, 51);
     letter-spacing: 0.5px;
 }
@@ -136,7 +136,7 @@
     height: 99px;
     width: 90%;
     left: 0;
-    bottom: 138px;
+    bottom: 134px;
     z-index: -1;
 }
 
@@ -148,7 +148,7 @@
 
 .pay h2 {
     font-family: "Rubik Medium";
-    font-size: 48px;
+    font-size: 40px;
     color: rgb(33, 32, 51);
     letter-spacing: 1px;
     margin-bottom: 45px;
@@ -157,7 +157,7 @@
 .pay__form form {
     display: flex;
     width: 822px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .pay__fonds {
@@ -169,9 +169,9 @@
 }
 
 .pay__fonds label {
-    position: relative;
+
     height: 44px;
-    width: 272px;
+    width: 365px;
     line-height: 44px;
     color: rgb(12, 105, 197);
 }
